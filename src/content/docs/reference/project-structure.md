@@ -1,6 +1,6 @@
 ---
-title: Example Reference
-description: A reference page in my new Starlight docs site.
+title: Project Structure
+description: Learn more about the structure of the OceanCleanX project.
 ---
 
 Reference pages are ideal for outlining how things work in terse and clear terms.
